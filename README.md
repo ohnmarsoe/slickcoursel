@@ -1,1 +1,1 @@
-## Testing slick coursel libray!
+## Testing slick carousel libray!
